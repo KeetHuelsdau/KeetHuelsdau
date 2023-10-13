@@ -13,4 +13,3 @@ I started studying for a Bachelor of Computer Science at the FernUniversität in
 winter semester of 2020. Since I lacked practical relevance in my studies, I applied for the 
 programme at Academic Work in cooperation with Finanz Informatik, which I started now in 
 September 2023
----
